@@ -7,7 +7,6 @@
     justify-content: center;
     flex-direction: row-reverse;
     gap: 10px;
-    text-decoration: none;
 }
 .icon{
     width: 18px;
@@ -37,4 +36,7 @@ justify-content: space-between;
 .shop{
  border-radius: 6px ;
  border: 2px solid ;
+}
+.atag{
+    text-decoration: none;
 }
