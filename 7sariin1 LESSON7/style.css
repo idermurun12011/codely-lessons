@@ -39,6 +39,7 @@ justify-content: space-between;
     background-color: black;
     border-radius: 6px ;
   border: 4px solid black ;
+
 }
 .atag{
     text-decoration: none;
@@ -92,26 +93,49 @@ color: white ;
 }
 .sneakers{
     width: 250px;
-  
-    /* justify-content: space-between;
-    border-radius: 3px; */
+    border-radius: 50px;
+    /* display: flex;   */
+    /* justify-content: space-around; */
 }
 .sneakerscontainer{
     position: relative;
     display: flex;
-    padding: 20px;
+    /* padding: 20px; */
 }
 .desc2{
     position: absolute;
 }
 .postercontainer{
     position: relative;
-    /* width: 40px; */
+      /* display: flex;  */
 }
 .poster{
-    width: 395px;
-   /* padding-left: 50px; */
-}
+    width: 300px;
+}   
 .descposter{
     position: absolute;
+    /* display: flex; */
+    color: white;
+}
+.huree2{
+    display: flex;
+    /* justify-content: center; */
+    justify-content: space-around;
+}
+.shop3{
+  
+    color: black;
+    background-color: white;
+    border-radius: 6px ;
+  border: 4px solid white   ;
+  width: 50px;
+}
+.huree1{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px
+    ;
+}
+.button:hover{
+    background-color: red;
 }
