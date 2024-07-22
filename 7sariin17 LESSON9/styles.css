@@ -1,0 +1,130 @@
+.top{
+    background-color: white;
+    height: 50px;
+    flex: 1;
+}
+.zuun{
+    background-color: white;
+    flex: 1;
+}
+.baruun{
+    background-color: white;
+    flex: 8;
+    /* display: flex; 
+    flex-direction: row;
+  align-items: center; */
+}
+.container{
+    display: flex;
+    height: 95vh;
+}
+.topcontainer{
+   display: flex;
+   justify-content: center;
+   justify-content: space-between;
+   
+ /* text-align: center; */
+}
+.logo{
+    background-color: white;
+    height: 50px;
+    width: 120px;
+    text-align: center;
+    color: bisque;
+}
+.filter{
+    /* background-color: gray; */
+    display: flex;
+   justify-content: center;
+   height: 25px;
+   justify-content: space-between;
+}
+.filtebutton:hover{
+background-color: grey;
+
+}
+.filtebutton{
+    border-radius: 25%;
+}
+body{
+    margin: 0;
+}
+.video{
+    height: 280px;
+    width: 350px;
+    /* background-color: yellowgreen; */
+    margin-left: 40px;
+}
+.videocontainer{
+    display: flex;  
+    flex-direction: row;
+  align-items: center;
+  /* justify-content: space-around ; */
+  flex-wrap: wrap;
+  padding: 30px;
+  gap: 20px;
+}
+.mp3{
+    width: 200px;
+    width: 300px;
+  margin: 23px;
+  border-radius: 10%;
+}
+.desc{
+    /* background-color: yellow; */
+    /* margin: 10px; */
+    height: 50px;
+    display: flex;
+    justify-content: end;
+    width: 250px;       
+    margin-left: 50px;
+}
+img{
+    height: 40px;
+    border-radius: 30px;
+ margin: 5px;
+}
+.description{
+    /* background-color: gray; */
+    width: 200px;
+    display: flex;
+margin-right: 20px;
+margin: 8px;
+}
+@media screen and (max-width: 600px) {
+
+}
+@media screen and (min-width: 600px)
+and (max-width: 600px) {
+
+}
+.logos{
+    height: 15px;
+
+}
+.logos2{
+    height: 25px;
+}
+.logos3{
+    height: 30px;       
+    width: 100px;
+     /* display: flex;  */
+background-color: white;
+/* align-items: center; */
+/* flex-wrap: wrap; */
+}
+.you{
+    margin: 20px;
+}
+.logos3:hover{
+    background-color: gainsboro;
+}
+.logos3container{
+    display: flex;
+   align-items: center;
+   /* margin: 20px; */
+}
+.subscontainer{
+    display: flex;
+    align-items: center;
+}
