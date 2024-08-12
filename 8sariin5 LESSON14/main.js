@@ -15,7 +15,6 @@ for (let i = 0; i < 5; i++) {
 
 
 // 3
-// let niilber = 5
 // let n = prompt("Тоогоо оруулна уу")
 // let niilber = 0
 // for (let i = 1; i <= n; i++) {
