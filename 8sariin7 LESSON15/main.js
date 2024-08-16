@@ -14,11 +14,11 @@
 // }
     
 // 3
-let n = prompt('Тоогоо оруулна уу? ');
-let stars = "";
-for (let i = 1; i <= 5; i++) {
-stars += "*"
-    console.log(stars);
+// let n = prompt('Тоогоо оруулна уу? ');
+// let stars = "";
+// for (let i = 1; i <= 5; i++) {
+// stars += "*"
+//     console.log(stars);
     
     
-}
+// }
