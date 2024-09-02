@@ -8,12 +8,12 @@
 
 // 2
 
-let x = 57349
-if( x%2===0  ) {
-    console.log('tegsh');
-}else {
-    console.log('sondgoi');
-}
+// let x = 57349
+// if( x%2===0  ) {
+//     console.log('tegsh');
+// }else {
+//     console.log('sondgoi');
+// }
    
 
 // 3
